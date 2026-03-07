@@ -1,8 +1,8 @@
-import { hasGlobalComponent } from "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/index.js";
-import Badge from "F:/the-infinite-hierarchy/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "F:/the-infinite-hierarchy/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import { hasGlobalComponent } from "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/index.js";
+import Badge from "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
 
-import "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
 
 export default {
   enhance: ({ app }) => {

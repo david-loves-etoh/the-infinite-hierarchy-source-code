@@ -1,12 +1,12 @@
 ---
 # 这是文章的标题
-title: 原创角色列表
+title: 自创序数列表
 # 你可以自定义封面图片
 cover: /assets/images/cover1.jpg
 # 这是页面的图标
 icon: file
 # 这是侧边栏的顺序
-order: 4
+order: 3
 # 设置作者
 author: RBNC_326649
 # 设置写作时间
@@ -28,4 +28,12 @@ footer: 这是测试显示的页脚
 copyright: 无版权
 ---
 
-没做完
+## 0~$\psi(\Omega_{\omega})$
+
+GO(Graham Ordinal)=$\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\Omega}6)})})})})$
+
+## MM()(1,1)(2,2,1,1)(3)~？？？
+
+LHO(Large Hydra Ordinal)=$Ϟ(\psi_{Z},\varepsilon_{0})$
+GHO(Gigantic Hydra Ordinal)=$Ϟ(\psi_{Z},SHO)$
+HHO(Hyper Hydra Ordinal)=$lim(zFOS)$

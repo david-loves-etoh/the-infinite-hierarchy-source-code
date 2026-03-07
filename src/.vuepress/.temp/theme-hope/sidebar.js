@@ -1,1 +1,1 @@
-export const sidebarData = {"/oc-list/":["","oc-chart"]};
+export const sidebarData = {"/oc-list/":["","cosmology","ggg","ordinals","oc-chart"]};

@@ -1,7 +1,7 @@
-import { hasGlobalComponent } from "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/index.js";
-import { useScriptTag } from "F:/the-infinite-hierarchy/node_modules/@vueuse/core/dist/index.js";
+import { hasGlobalComponent } from "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/index.js";
+import { useScriptTag } from "F:/the-infinite-hierarchy-source-code/node_modules/@vueuse/core/dist/index.js";
 import { h } from "vue";
-import { VPIcon } from "F:/the-infinite-hierarchy/node_modules/@vuepress/plugin-icon/lib/client/index.js"
+import { VPIcon } from "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/plugin-icon/lib/client/index.js"
 
 export default {
   enhance: ({ app }) => {

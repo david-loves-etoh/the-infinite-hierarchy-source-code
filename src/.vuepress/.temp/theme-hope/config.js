@@ -1,15 +1,15 @@
-import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "F:/the-infinite-hierarchy/node_modules/vuepress-theme-hope/lib/bundle/exports/base.js";
+import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-theme-hope/lib/bundle/exports/base.js";
 
-import { defineCatalogInfoGetter } from "F:/the-infinite-hierarchy/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
+import { defineCatalogInfoGetter } from "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
 import { h } from "vue"
 import { resolveComponent } from "vue"
-import { GlobalEncrypt, LocalEncrypt } from "F:/the-infinite-hierarchy/node_modules/vuepress-theme-hope/lib/bundle/exports/encrypt.js";
-import "F:/the-infinite-hierarchy/node_modules/vuepress-theme-hope/lib/bundle/styles/encrypt/bundle.scss"
+import { GlobalEncrypt, LocalEncrypt } from "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-theme-hope/lib/bundle/exports/encrypt.js";
+import "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-theme-hope/lib/bundle/styles/encrypt/bundle.scss"
 
-import "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/styles/colors.css";
-import "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
-import "F:/the-infinite-hierarchy/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
-import "F:/the-infinite-hierarchy/node_modules/vuepress-theme-hope/lib/bundle/styles/bundle.scss";
+import "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/styles/colors.css";
+import "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
+import "F:/the-infinite-hierarchy-source-code/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "F:/the-infinite-hierarchy-source-code/node_modules/vuepress-theme-hope/lib/bundle/styles/bundle.scss";
 
 defineCatalogInfoGetter((meta) => {
   const title = meta.title;
