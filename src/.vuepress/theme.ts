@@ -30,9 +30,9 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
+      "/oc-list/sandbox.html": {
+        hint: "什么东西是甜的，吃了会说五种语言？",
+        password: "说谎的马卡龙",
       },
     },
   },

@@ -7,6 +7,7 @@ export const routes = Object.fromEntries([
   ["/oc-list/oc-chart.html", { loader: () => import(/* webpackChunkName: "oc-list_oc-chart.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/oc-list/oc-chart.html.js"), meta: {"title":"原创角色列表","icon":"file","order":4} }],
   ["/oc-list/ordinals.html", { loader: () => import(/* webpackChunkName: "oc-list_ordinals.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/oc-list/ordinals.html.js"), meta: {"title":"自创序数列表","icon":"file","order":3} }],
   ["/oc-list/", { loader: () => import(/* webpackChunkName: "oc-list_index.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/oc-list/index.html.js"), meta: {"title":"设定","icon":"file"} }],
+  ["/oc-list/sandbox.html", { loader: () => import(/* webpackChunkName: "oc-list_sandbox.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/oc-list/sandbox.html.js"), meta: {"title":"🔒沙盒","icon":"file","order":5} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 

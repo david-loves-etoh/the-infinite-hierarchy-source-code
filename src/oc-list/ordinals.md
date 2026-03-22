@@ -28,12 +28,22 @@ footer: 这是测试显示的页脚
 copyright: 无版权
 ---
 
-## 0~$\psi(\Omega_{\omega})$
-
 GO(Graham Ordinal)=$\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\psi(\Omega^{\Omega}6)})})})})$
 
-## MM()(1,1)(2,2,1,1)(3)~？？？
+SHO(Small Hydra Ordinal)=$\psi(\psi_{H}(\varepsilon_{H+1}))$
 
-LHO(Large Hydra Ordinal)=$Ϟ(\psi_{Z},\varepsilon_{0})$
-GHO(Gigantic Hydra Ordinal)=$Ϟ(\psi_{Z},SHO)$
+MHO(Medium Hydra Ordinal)=$\psi(\psi_{H}(H_{\omega}))$
+
+GBQdHO(Guo Bu Qv de Hydra Ordinal)=$\psi(\psi_{H}(\psi_{T}(T_{2}2)))$
+
+IHO(Intermediate Hydra Ordinal)=$MM()(1^{\omega})=lim(MMS)$
+
+LHO(Large Hydra Ordinal)=SYkO(Small Yukina Ordinal)=$Ϟ(\psi_{Z},\varepsilon_{0})=lim(FFFZ)$
+
+LYkO(Large Yukina Ordinal)=$Ϟ(\psi_{Z},SHO)=lim(FMS)$
+
+GHO(Gigantic Hydra Ordinal)=$Ϟ(Ϟ(\psi_{Z},\alpha),\varepsilon_{0})=lim(\omega-FFFZ)$
+
 HHO(Hyper Hydra Ordinal)=$lim(zFOS)$
+
+UCO(Uncountable Catching Ordinal)=$XD(3)$

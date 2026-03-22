@@ -1,12 +1,12 @@
 ---
 # 这是文章的标题
-title: 自创记号列表
+title: 🔒沙盒
 # 你可以自定义封面图片
 cover: /assets/images/cover1.jpg
 # 这是页面的图标
 icon: file
 # 这是侧边栏的顺序
-order: 2
+order: 5
 # 设置作者
 author: RBNC_326649
 # 设置写作时间
@@ -28,25 +28,15 @@ footer: 这是测试显示的页脚
 copyright: 无版权
 ---
 
-## $Ϟ$函数
+## 彩色文字测试
 
-我们定义$Ϟ$函数如下：
-$$Ϟ(f,\beta)=“\text{如果将}f(\alpha)\text{类比为}\omega^{\alpha}\text{，则被类比为}\beta\text{的那个序数}”$$
+<p style="color: #ff0000;">红色文字</p>
 
-## 高阶真类
+## 发光文字测试
 
-没做完
+<p text-shadow="0 0 10px #000000">发光文字</p>
+<p text-shadow="0 0 10px #ff0000, 0 0 20px #ff0000">红色发光文字</p>
 
-## 广义序数
+## JavaScript测试
 
-没做完
-
-## 三限大与$\alpha$限大
-
-定义XD函数：
-$$XD(3+\alpha)=Ϟ(\lambda\beta.f_{\omega_{1}+\beta}(\omega),\varepsilon_{\alpha})$$
-那么$XD(3)$就是三限大，$XD(\alpha)$就是$\alpha$限大。
-
-## ？？？
-
-没做完
+<button @click="alert('Hello World!')">测试</button>
