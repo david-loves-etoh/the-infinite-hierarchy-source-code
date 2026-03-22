@@ -10,20 +10,3 @@ export const routes = Object.fromEntries([
   ["/oc-list/sandbox.html", { loader: () => import(/* webpackChunkName: "oc-list_sandbox.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/oc-list/sandbox.html.js"), meta: {"title":"🔒沙盒","icon":"file","order":5} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"F:/the-infinite-hierarchy-source-code/src/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateRoutes) {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-  }
-  if (__VUE_HMR_RUNTIME__.updateRedirects) {
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ routes, redirects }) => {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  })
-}
