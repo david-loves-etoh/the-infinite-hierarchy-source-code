@@ -11,7 +11,7 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "@vuepress/bundler-vite": "2.0.0-rc.27",
     "katex": "^0.16.33",
     "sass-embedded": "^1.97.1",
     "vue": "^3.5.26",
